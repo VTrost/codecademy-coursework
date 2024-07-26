@@ -1,6 +1,8 @@
 # codecademy-coursework
 Collection of projects completed during Codecademy courses.
 
+Note: project directory and file names are unchanged from what they were provided as.
+
 ## Contents
 ### *Course*: Data Science Foundations Skill Path
 ### *Projects*: 
@@ -16,7 +18,7 @@ Collection of projects completed during Codecademy courses.
 
 - EDA Diagnosing Diabetes - Exploratory Data Analysis in Python - July 25, 2024
 
-- Codecademy_NBA_Trends_Project - Exploratory Data Analysis in Python - WIP
+- Codecademy_NBA_Trends_Project - Exploratory Data Analysis in Python - July 25, 2024
 
 - Product Defects - Statistics Fundamentals for Data Science - WIP
 
