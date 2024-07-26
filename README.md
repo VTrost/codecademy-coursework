@@ -20,10 +20,10 @@ Note: project directory and file names are unchanged from what they were provide
 
 - Codecademy_NBA_Trends_Project - Exploratory Data Analysis in Python - July 25, 2024
 
-- Product Defects - Statistics Fundamentals for Data Science - WIP
+- Product Defects - Statistics Fundamentals for Data Science - July 26, 2024
 
-- Exploring Mushrooms - Data Visualization Fundamentals with Python - WIP
+- Exploring Mushrooms - Data Visualization Fundamentals with Python - July 26, 2024
 
-- Airline Analysis - Data Visualization Fundamentals with Python - WIP
+- Airline Analysis - Data Visualization Fundamentals with Python - July 26, 2024
 
-- Cleaning US Census Data - Data Wrangling, Cleaning, and Tidying - WIP
+- Cleaning US Census Data - Data Wrangling, Cleaning, and Tidying - July 26, 2024
