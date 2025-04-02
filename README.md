@@ -27,3 +27,5 @@ Note: project directory and file names are unchanged from what they were provide
 - Airline Analysis - Data Visualization Fundamentals with Python - July 26, 2024
 
 - Cleaning US Census Data - Data Wrangling, Cleaning, and Tidying - July 26, 2024
+
+- Life-Expectancy-and-GDP - Data Visualization Portfolio Project - April 2, 2025
