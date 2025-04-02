@@ -29,3 +29,5 @@ Note: project directory and file names are unchanged from what they were provide
 - Cleaning US Census Data - Data Wrangling, Cleaning, and Tidying - July 26, 2024
 
 - Life-Expectancy-and-GDP - Data Visualization Portfolio Project - April 2, 2025
+
+- Biodiversity_project - Biodiversity in National Parks - April 2, 2025
